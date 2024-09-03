@@ -111,6 +111,7 @@ class HomeView extends GetView<HomeController> {
                           alignment: Alignment.bottomCenter,
                           children: [
 
+
                             Container(
                               width: 50.h,
                               height: 20.h,
